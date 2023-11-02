@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de08a03b.css",
+    "main.js": "/static/js/main.e932d28d.js",
+    "static/media/TV.png": "/static/media/TV.15a17440beb6b2c6a730.png",
+    "static/media/Technician 2.jpg": "/static/media/Technician 2.a38f649f76221d226e94.jpg",
+    "index.html": "/index.html",
+    "main.de08a03b.css.map": "/static/css/main.de08a03b.css.map",
+    "main.e932d28d.js.map": "/static/js/main.e932d28d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de08a03b.css",
+    "static/js/main.e932d28d.js"
+  ]
+}
